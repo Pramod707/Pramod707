@@ -1,51 +1,40 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Pramod B</strong>
+<h1 align="center">
+  Hi 👋, I'm <strong>B. Pramod</strong>
 </h1>
 
-<h3>🚀 Software Developer | AI • Full Stack • Python • Java</h3>
+<h3 align="center">🚀 AI Developer | Full Stack Developer | Problem Solver</h3>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+Software+Developer;Full+Stack+Engineer;Building+Smart+Systems;Always+Learning+New+Technologies+🚀" />
+</p>
 
-  <p>
-    I’m a passionate developer focused on building intelligent and scalable applications.
-    I enjoy combining <b>AI, backend systems, and modern web technologies</b> to create
-    efficient, real-world solutions.
-  </p>
+---
 
-  <p>
-    Currently exploring <b>Artificial Intelligence, System Design, and Full-Stack Development</b>.
-    I love solving complex problems and turning ideas into practical software.
-  </p>
+## 👨‍💻 About Me
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/⚡_Learning_Everyday-1e1e2e?style=for-the-badge" />
-  </p>
-
-</div>
-
-<br clear="all" />
+- 🔭 Currently building **AI-powered intelligent systems**
+- 🌱 Learning **System Design, Artificial Intelligence & Backend Engineering**
+- 💡 Interested in **AI, Full Stack Development & Automation**
+- ⚡ Passionate about solving real-world problems using technology
+- 🤝 Open to collaborations and innovative projects
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/B.Pramod">
   <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/pramod7/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:pramod15092004@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -57,7 +46,7 @@
 
 <p align="center">
 
-### 💻 Programming
+### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c" />
 
 ### ⚙️ Frameworks & Technologies
@@ -66,46 +55,83 @@
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚧 Currently Building
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=dark&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- 🤖 AI Threat Detection System
+- 📊 Intelligent Data Analysis Tools
+- 🌐 Full Stack Web Applications
+- ⚡ Backend Optimization Projects
 
 ---
 
-## 🚀 Current Focus
+## 📊 GitHub Stats
 
-- 🤖 AI & Machine Learning Projects
-- 🌐 Full-Stack Application Development
-- ⚡ Backend Performance Optimization
-- 🧠 Data Structures & System Design
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=B.Pramod&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=B.Pramod&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B.Pramod&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B.Pramod&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=B.Pramod&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 💭 Developer Philosophy
+
+> "Good code solves problems. Great code scales solutions."
+
+- Clean architecture believer
+- Performance-focused development
+- Continuous learning mindset
+- Build → Test → Improve → Repeat
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/B.Pramod/B.Pramod/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## ❤️ Support
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you like my work, consider giving a star ⭐ to my repositories!
 </p>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=blue" alt="Profile views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=B.Pramod&style=flat-square&color=blue" />
+</p>
