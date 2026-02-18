@@ -1,32 +1,111 @@
-<h1 align="center">Hi 👋, I'm B.Pramod</h1>
-<h3 align="center">I'm a Software Development Intern passionate about building modern, efficient, and user-friendly applications.</h3>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod707&label=Profile%20views&color=0e75b6&style=flat" alt="pramod707" /> </p>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Pramod B</strong>
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramod707" alt="pramod707" /></a> </p>
+<h3>🚀 Software Developer | AI • Full Stack • Python • Java</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-- 🔭 I’m currently working on **I’m currently learning advanced Spring Boot, React best practices, and AWS integration**
+  <p>
+    I’m a passionate developer focused on building intelligent and scalable applications.
+    I enjoy combining <b>AI, backend systems, and modern web technologies</b> to create
+    efficient, real-world solutions.
+  </p>
 
-- 👯 I’m looking to collaborate on **Rect-based frontend & java-based backend systems, REST APIs, and full-stack applications**
+  <p>
+    Currently exploring <b>Artificial Intelligence, System Design, and Full-Stack Development</b>.
+    I love solving complex problems and turning ideas into practical software.
+  </p>
 
-- 📫 How to reach me **pramod15092004@gmail.com**
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/⚡_Learning_Everyday-1e1e2e?style=for-the-badge" />
+  </p>
 
-- ⚡ Fun fact **I write Java like poetry and style frontend like a designer 👨‍💻🎨**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+<br clear="all" />
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pramod7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pramod7/" height="30" width="40" /></a>
-<a href="https://instagram.com/mr._p_r_a_m_o_d14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._p_r_a_m_o_d14" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/pramod7_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pramod7_7/" height="30" width="40" /></a>
+
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramod707&show_icons=true&locale=en&layout=compact" alt="pramod707" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramod707&show_icons=true&locale=en" alt="pramod707" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramod707&" alt="pramod707" /></p>
+### 💻 Programming
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c" />
+
+### ⚙️ Frameworks & Technologies
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=dark&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 AI & Machine Learning Projects
+- 🌐 Full-Stack Application Development
+- ⚡ Backend Performance Optimization
+- 🧠 Data Structures & System Design
+
+---
+
+## ❤️ Support
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=blue" alt="Profile views"/>
