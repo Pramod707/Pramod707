@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<a href="https://github.com/B.Pramod">
+<a href="https://github.com/Pramod707">
   <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -75,15 +75,15 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=B.Pramod&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pramod707&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=B.Pramod&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Pramod707&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B.Pramod&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod707&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -92,7 +92,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B.Pramod&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramod707&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=B.Pramod&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pramod707&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -119,7 +119,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/B.Pramod/B.Pramod/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Pramod707/Pramod707/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -133,5 +133,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=B.Pramod&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Pramod707&style=flat-square&color=blue" />
 </p>
