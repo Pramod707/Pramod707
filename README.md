@@ -108,13 +108,6 @@
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pramod707&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
 
 # 💭 Developer Philosophy
 
