@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="100%">
+  <defs>
+    <radialGradient id="dashBg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </radialGradient>
+
+    <filter id="dashGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="strongDashGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F5FF"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#00F5FF"/>
+    </linearGradient>
+
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <!-- Glass Panel -->
+    <filter id="glassPanel" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo"/>
+      <feComposite in="SourceGraphic" in2="goo" operator="atop"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="500" fill="url(#dashBg)"/>
+
+  <!-- Dashboard Title -->
+  <text x="600" y="45" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="300" fill="#00F5FF" letter-spacing="6" opacity="0.8">AI SYSTEM DASHBOARD</text>
+  <line x1="500" y1="55" x2="700" y2="55" stroke="#00F5FF" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- ===== TOP ROW: HUD WIDGETS ===== -->
+
+  <!-- Widget 1: AI Engineering -->
+  <g transform="translate(100, 90)">
+    <rect x="0" y="0" width="180" height="180" rx="15" fill="rgba(0, 245, 255, 0.03)" stroke="rgba(0, 245, 255, 0.2)" stroke-width="1"/>
+    <!-- Circular Progress -->
+    <circle cx="90" cy="75" r="55" fill="none" stroke="rgba(0, 245, 255, 0.1)" stroke-width="6"/>
+    <circle cx="90" cy="75" r="55" fill="none" stroke="url(#cyanGrad)" stroke-width="6" stroke-linecap="round" 
+      stroke-dasharray="345.6" stroke-dashoffset="34.56" transform="rotate(-90 90 75)" filter="url(#dashGlow)">
+      <animate attributeName="stroke-dashoffset" values="345.6;34.56" dur="2s" fill="freeze"/>
+    </circle>
+    <text x="90" y="80" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#00F5FF" filter="url(#dashGlow)">90%</text>
+    <text x="90" y="155" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="13" fill="#00F5FF" opacity="0.8" letter-spacing="1">AI ENGINEERING</text>
+    <!-- Decorative dots -->
+    <circle cx="20" cy="20" r="2" fill="#00F5FF" opacity="0.5"/>
+    <circle cx="160" cy="160" r="2" fill="#00F5FF" opacity="0.5"/>
+  </g>
+
+  <!-- Widget 2: Backend -->
+  <g transform="translate(310, 90)">
+    <rect x="0" y="0" width="180" height="180" rx="15" fill="rgba(139, 92, 246, 0.03)" stroke="rgba(139, 92, 246, 0.2)" stroke-width="1"/>
+    <circle cx="90" cy="75" r="55" fill="none" stroke="rgba(139, 92, 246, 0.1)" stroke-width="6"/>
+    <circle cx="90" cy="75" r="55" fill="none" stroke="url(#purpleGrad)" stroke-width="6" stroke-linecap="round" 
+      stroke-dasharray="345.6" stroke-dashoffset="51.84" transform="rotate(-90 90 75)" filter="url(#dashGlow)">
+      <animate attributeName="stroke-dashoffset" values="345.6;51.84" dur="2s" fill="freeze" begin="0.3s"/>
+    </circle>
+    <text x="90" y="80" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#8B5CF6" filter="url(#dashGlow)">85%</text>
+    <text x="90" y="155" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="13" fill="#8B5CF6" opacity="0.8" letter-spacing="1">BACKEND</text>
+    <circle cx="20" cy="20" r="2" fill="#8B5CF6" opacity="0.5"/>
+    <circle cx="160" cy="160" r="2" fill="#8B5CF6" opacity="0.5"/>
+  </g>
+
+  <!-- Widget 3: Data Analytics -->
+  <g transform="translate(520, 90)">
+    <rect x="0" y="0" width="180" height="180" rx="15" fill="rgba(59, 130, 246, 0.03)" stroke="rgba(59, 130, 246, 0.2)" stroke-width="1"/>
+    <circle cx="90" cy="75" r="55" fill="none" stroke="rgba(59, 130, 246, 0.1)" stroke-width="6"/>
+    <circle cx="90" cy="75" r="55" fill="none" stroke="url(#blueGrad)" stroke-width="6" stroke-linecap="round" 
+      stroke-dasharray="345.6" stroke-dashoffset="69.12" transform="rotate(-90 90 75)" filter="url(#dashGlow)">
+      <animate attributeName="stroke-dashoffset" values="345.6;69.12" dur="2s" fill="freeze" begin="0.6s"/>
+    </circle>
+    <text x="90" y="80" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#3B82F6" filter="url(#dashGlow)">80%</text>
+    <text x="90" y="155" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="13" fill="#3B82F6" opacity="0.8" letter-spacing="1">DATA ANALYTICS</text>
+    <circle cx="20" cy="20" r="2" fill="#3B82F6" opacity="0.5"/>
+    <circle cx="160" cy="160" r="2" fill="#3B82F6" opacity="0.5"/>
+  </g>
+
+  <!-- Widget 4: Open Source -->
+  <g transform="translate(730, 90)">
+    <rect x="0" y="0" width="180" height="180" rx="15" fill="rgba(0, 245, 255, 0.03)" stroke="rgba(0, 245, 255, 0.2)" stroke-width="1"/>
+    <circle cx="90" cy="75" r="55" fill="none" stroke="rgba(0, 245, 255, 0.1)" stroke-width="6"/>
+    <circle cx="90" cy="75" r="55" fill="none" stroke="url(#cyanGrad)" stroke-width="6" stroke-linecap="round" 
+      stroke-dasharray="345.6" stroke-dashoffset="86.4" transform="rotate(-90 90 75)" filter="url(#dashGlow)">
+      <animate attributeName="stroke-dashoffset" values="345.6;86.4" dur="2s" fill="freeze" begin="0.9s"/>
+    </circle>
+    <text x="90" y="80" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#00F5FF" filter="url(#dashGlow)">75%</text>
+    <text x="90" y="155" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="13" fill="#00F5FF" opacity="0.8" letter-spacing="1">OPEN SOURCE</text>
+    <circle cx="20" cy="20" r="2" fill="#00F5FF" opacity="0.5"/>
+    <circle cx="160" cy="160" r="2" fill="#00F5FF" opacity="0.5"/>
+  </g>
+
+  <!-- Widget 5: System Design -->
+  <g transform="translate(940, 90)">
+    <rect x="0" y="0" width="180" height="180" rx="15" fill="rgba(139, 92, 246, 0.03)" stroke="rgba(139, 92, 246, 0.2)" stroke-width="1"/>
+    <circle cx="90" cy="75" r="55" fill="none" stroke="rgba(139, 92, 246, 0.1)" stroke-width="6"/>
+    <circle cx="90" cy="75" r="55" fill="none" stroke="url(#purpleGrad)" stroke-width="6" stroke-linecap="round" 
+      stroke-dasharray="345.6" stroke-dashoffset="51.84" transform="rotate(-90 90 75)" filter="url(#dashGlow)">
+      <animate attributeName="stroke-dashoffset" values="345.6;51.84" dur="2s" fill="freeze" begin="1.2s"/>
+    </circle>
+    <text x="90" y="80" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="24" font-weight="700" fill="#8B5CF6" filter="url(#dashGlow)">85%</text>
+    <text x="90" y="155" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="13" fill="#8B5CF6" opacity="0.8" letter-spacing="1">SYSTEM DESIGN</text>
+    <circle cx="20" cy="20" r="2" fill="#8B5CF6" opacity="0.5"/>
+    <circle cx="160" cy="160" r="2" fill="#8B5CF6" opacity="0.5"/>
+  </g>
+
+  <!-- ===== BOTTOM ROW: SYSTEM METRICS ===== -->
+
+  <!-- System Metrics Panel -->
+  <rect x="100" y="300" width="1020" height="160" rx="15" fill="rgba(0, 245, 255, 0.02)" stroke="rgba(0, 245, 255, 0.15)" stroke-width="1"/>
+
+  <!-- Metric 1: CPU -->
+  <g transform="translate(140, 330)">
+    <text x="0" y="0" font-family="'Segoe UI', sans-serif" font-size="11" fill="#00F5FF" opacity="0.6" letter-spacing="2">CPU</text>
+    <rect x="0" y="15" width="120" height="8" rx="4" fill="rgba(0, 245, 255, 0.1)"/>
+    <rect x="0" y="15" width="108" height="8" rx="4" fill="url(#cyanGrad)" filter="url(#dashGlow)">
+      <animate attributeName="width" values="0;108" dur="1.5s" fill="freeze" begin="2s"/>
+    </rect>
+    <text x="0" y="45" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="700" fill="#00F5FF" filter="url(#dashGlow)">92%</text>
+  </g>
+
+  <!-- Metric 2: Memory -->
+  <g transform="translate(320, 330)">
+    <text x="0" y="0" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8B5CF6" opacity="0.6" letter-spacing="2">MEMORY</text>
+    <rect x="0" y="15" width="120" height="8" rx="4" fill="rgba(139, 92, 246, 0.1)"/>
+    <rect x="0" y="15" width="96" height="8" rx="4" fill="url(#purpleGrad)" filter="url(#dashGlow)">
+      <animate attributeName="width" values="0;96" dur="1.5s" fill="freeze" begin="2.3s"/>
+    </rect>
+    <text x="0" y="45" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="700" fill="#8B5CF6" filter="url(#dashGlow)">82%</text>
+  </g>
+
+  <!-- Metric 3: Repositories -->
+  <g transform="translate(500, 330)">
+    <text x="0" y="0" font-family="'Segoe UI', sans-serif" font-size="11" fill="#3B82F6" opacity="0.6" letter-spacing="2">REPOSITORIES</text>
+    <rect x="0" y="15" width="120" height="8" rx="4" fill="rgba(59, 130, 246, 0.1)"/>
+    <rect x="0" y="15" width="120" height="8" rx="4" fill="url(#blueGrad)" filter="url(#dashGlow)">
+      <animate attributeName="width" values="0;120" dur="1.5s" fill="freeze" begin="2.6s"/>
+    </rect>
+    <text x="0" y="45" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="700" fill="#3B82F6" filter="url(#dashGlow)">15+</text>
+  </g>
+
+  <!-- Metric 4: Commits -->
+  <g transform="translate(680, 330)">
+    <text x="0" y="0" font-family="'Segoe UI', sans-serif" font-size="11" fill="#00F5FF" opacity="0.6" letter-spacing="2">COMMITS</text>
+    <rect x="0" y="15" width="120" height="8" rx="4" fill="rgba(0, 245, 255, 0.1)"/>
+    <rect x="0" y="15" width="114" height="8" rx="4" fill="url(#cyanGrad)" filter="url(#dashGlow)">
+      <animate attributeName="width" values="0;114" dur="1.5s" fill="freeze" begin="2.9s"/>
+    </rect>
+    <text x="0" y="45" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="700" fill="#00F5FF" filter="url(#dashGlow)">500+</text>
+  </g>
+
+  <!-- Metric 5: Network -->
+  <g transform="translate(860, 330)">
+    <text x="0" y="0" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8B5CF6" opacity="0.6" letter-spacing="2">NETWORK</text>
+    <rect x="0" y="15" width="120" height="8" rx="4" fill="rgba(139, 92, 246, 0.1)"/>
+    <rect x="0" y="15" width="102" height="8" rx="4" fill="url(#purpleGrad)" filter="url(#dashGlow)">
+      <animate attributeName="width" values="0;102" dur="1.5s" fill="freeze" begin="3.2s"/>
+    </rect>
+    <text x="0" y="45" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="700" fill="#8B5CF6" filter="url(#dashGlow)">ACTIVE</text>
+  </g>
+
+  <!-- Metric 6: Status -->
+  <g transform="translate(1040, 330)">
+    <text x="0" y="0" font-family="'Segoe UI', sans-serif" font-size="11" fill="#3B82F6" opacity="0.6" letter-spacing="2">STATUS</text>
+    <circle cx="15" cy="25" r="6" fill="#27c93f" filter="url(#dashGlow)">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="55" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="700" fill="#27c93f" filter="url(#dashGlow)">ONLINE</text>
+  </g>
+
+  <!-- Animated Wave at Bottom -->
+  <path d="M 100 420 Q 310 400 500 420 T 900 420 T 1120 420" fill="none" stroke="url(#cyanGrad)" stroke-width="1" opacity="0.3" filter="url(#dashGlow)">
+    <animate attributeName="d" values="M 100 420 Q 310 400 500 420 T 900 420 T 1120 420;M 100 420 Q 310 440 500 420 T 900 420 T 1120 420;M 100 420 Q 310 400 500 420 T 900 420 T 1120 420" dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Decorative Lines -->
+  <line x1="100" y1="300" x2="100" y2="460" stroke="#00F5FF" stroke-width="0.5" opacity="0.2"/>
+  <line x1="1120" y1="300" x2="1120" y2="460" stroke="#00F5FF" stroke-width="0.5" opacity="0.2"/>
+</svg>

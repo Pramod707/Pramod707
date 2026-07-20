@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="100%">
+  <defs>
+    <radialGradient id="partBg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </radialGradient>
+
+    <filter id="partGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#partBg)"/>
+
+  <!-- Particle System -->
+  <g opacity="0.6">
+    <!-- Cyan Particles -->
+    <circle cx="100" cy="50" r="2" fill="#00F5FF" filter="url(#partGlow)">
+      <animate attributeName="cx" values="100;1100;100" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="50;150;50" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="15s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="300" cy="150" r="1.5" fill="#00F5FF" filter="url(#partGlow)">
+      <animate attributeName="cx" values="300;100;300" dur="12s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="cy" values="150;30;150" dur="10s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="12s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+
+    <circle cx="600" cy="80" r="2.5" fill="#00F5FF" filter="url(#partGlow)">
+      <animate attributeName="cx" values="600;200;600" dur="18s" repeatCount="indefinite" begin="2s"/>
+      <animate attributeName="cy" values="80;180;80" dur="9s" repeatCount="indefinite" begin="2s"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="18s" repeatCount="indefinite" begin="2s"/>
+    </circle>
+
+    <!-- Purple Particles -->
+    <circle cx="200" cy="120" r="2" fill="#8B5CF6" filter="url(#partGlow)">
+      <animate attributeName="cx" values="200;900;200" dur="20s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="cy" values="120;40;120" dur="11s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="20s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+
+    <circle cx="800" cy="60" r="1.5" fill="#8B5CF6" filter="url(#partGlow)">
+      <animate attributeName="cx" values="800;400;800" dur="14s" repeatCount="indefinite" begin="3s"/>
+      <animate attributeName="cy" values="60;160;60" dur="7s" repeatCount="indefinite" begin="3s"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="14s" repeatCount="indefinite" begin="3s"/>
+    </circle>
+
+    <circle cx="1000" cy="140" r="2" fill="#8B5CF6" filter="url(#partGlow)">
+      <animate attributeName="cx" values="1000;500;1000" dur="16s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="cy" values="140;20;140" dur="12s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="16s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+
+    <!-- Blue Particles -->
+    <circle cx="450" cy="30" r="1.5" fill="#3B82F6" filter="url(#partGlow)">
+      <animate attributeName="cx" values="450;950;450" dur="17s" repeatCount="indefinite" begin="2.5s"/>
+      <animate attributeName="cy" values="30;170;30" dur="13s" repeatCount="indefinite" begin="2.5s"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="17s" repeatCount="indefinite" begin="2.5s"/>
+    </circle>
+
+    <circle cx="700" cy="170" r="2" fill="#3B82F6" filter="url(#partGlow)">
+      <animate attributeName="cx" values="700;100;700" dur="19s" repeatCount="indefinite" begin="4s"/>
+      <animate attributeName="cy" values="170;50;170" dur="10s" repeatCount="indefinite" begin="4s"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="19s" repeatCount="indefinite" begin="4s"/>
+    </circle>
+  </g>
+
+  <!-- Connection Lines (subtle) -->
+  <g opacity="0.05">
+    <line x1="100" y1="50" x2="300" y2="150" stroke="#00F5FF" stroke-width="0.5">
+      <animate attributeName="opacity" values="0.05;0.2;0.05" dur="5s" repeatCount="indefinite"/>
+    </line>
+    <line x1="600" y1="80" x2="800" y2="60" stroke="#8B5CF6" stroke-width="0.5">
+      <animate attributeName="opacity" values="0.05;0.2;0.05" dur="4s" repeatCount="indefinite" begin="1s"/>
+    </line>
+    <line x1="200" y1="120" x2="450" y2="30" stroke="#3B82F6" stroke-width="0.5">
+      <animate attributeName="opacity" values="0.05;0.2;0.05" dur="6s" repeatCount="indefinite" begin="2s"/>
+    </line>
+  </g>
+</svg>

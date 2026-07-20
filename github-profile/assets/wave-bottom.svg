@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="100%" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="waveBotGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#00F5FF" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  <path d="M 0 50 Q 150 100, 300 50 T 600 50 T 900 50 T 1200 50 L 1200 0 L 0 0 Z" fill="url(#waveBotGrad)" opacity="0.5">
+    <animate attributeName="d" values="M 0 50 Q 150 100, 300 50 T 600 50 T 900 50 T 1200 50 L 1200 0 L 0 0 Z;M 0 50 Q 150 0, 300 50 T 600 50 T 900 50 T 1200 50 L 1200 0 L 0 0 Z;M 0 50 Q 150 100, 300 50 T 600 50 T 900 50 T 1200 50 L 1200 0 L 0 0 Z" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M 0 40 Q 150 80, 300 40 T 600 40 T 900 40 T 1200 40 L 1200 0 L 0 0 Z" fill="url(#waveBotGrad)" opacity="0.3">
+    <animate attributeName="d" values="M 0 40 Q 150 80, 300 40 T 600 40 T 900 40 T 1200 40 L 1200 0 L 0 0 Z;M 0 40 Q 150 0, 300 40 T 600 40 T 900 40 T 1200 40 L 1200 0 L 0 0 Z;M 0 40 Q 150 80, 300 40 T 600 40 T 900 40 T 1200 40 L 1200 0 L 0 0 Z" dur="8s" repeatCount="indefinite" begin="1s"/>
+  </path>
+</svg>
