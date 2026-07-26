@@ -1,130 +1,219 @@
-<div align="center">
+````md
+<!-- ========================================================= -->
+<!--                  B. PRAMOD • GITHUB PROFILE               -->
+<!-- ========================================================= -->
 
-<!-- HERO SECTION -->
-<img src="assets/hero.svg" width="100%" alt="B. Pramod - AI Engineer"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0F172A,50:00D9FF,75:7C3AED,100:FF2D75&text=B.%20PRAMOD&fontSize=70&fontAlignY=36&fontColor=FFFFFF&desc=AI%20Engineer%20•%20Backend%20Developer%20•%20Building%20Intelligent%20Systems&descAlignY=58&descSize=20&animation=twinkling" alt="Header"/>
+</p>
 
-<br><br>
+<h1 align="center">Hi 👋 I'm <b>B. Pramod</b></h1>
 
-<!-- DIVIDER -->
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<h3 align="center">
+AI Engineer • Backend Developer • Data Analytics Enthusiast
+</h3>
 
-<br><br>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production+AI+Systems;Agentic+AI+%7C+RAG+%7C+LLMs;FastAPI+%7C+Python+%7C+Backend+Engineering;Turning+Ideas+Into+Intelligent+Software" />
+</p>
 
-<!-- TERMINAL SECTION -->
-<img src="assets/terminal.svg" width="100%" alt="Neural OS Terminal"/>
+<p align="center">
+<a href="https://github.com/Pramod707">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
 
-<br><br>
+<a href="https://www.linkedin.com/in/pramod7/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<!-- DIVIDER -->
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<a href="mailto:pramod15092004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF2D75?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=Pramod707&style=for-the-badge&label=PROFILE+VIEWS&color=00F7FF"/>
+</p>
 
-<!-- AI DASHBOARD -->
-<img src="assets/dashboard.svg" width="100%" alt="AI System Dashboard"/>
+---
 
-<br><br>
+# ⚡ Command Core
 
-<!-- DIVIDER -->
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+```bash
+PS C:\Users\Pramod>
 
-<br><br>
+whoami
 
-<!-- NEURAL NETWORK -->
-<img src="assets/neural-network.svg" width="100%" alt="Neural Network Architecture"/>
+B. Pramod
 
-<br><br>
+AI Engineer
+Backend Developer
+Data Analytics Enthusiast
 
-<!-- DIVIDER -->
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+----------------------------------------
 
-<br><br>
+status
 
-<!-- SKILLS MATRIX -->
-<img src="assets/skills.svg" width="100%" alt="Skill Matrix"/>
+🟢 Online
 
-<br><br>
+----------------------------------------
 
-<!-- DIVIDER -->
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+focus
 
-<br><br>
+• Agentic AI
+• LLM Applications
+• Backend Engineering
+• Data Analytics
 
-<!-- PROJECTS -->
-<img src="assets/projects.svg" width="100%" alt="Featured Projects"/>
+----------------------------------------
 
-<br><br>
+currently_building
 
-<!-- DIVIDER -->
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+Production-grade AI applications
 
-<br><br>
+----------------------------------------
 
-<!-- GITHUB STATS -->
+mission
 
-## <img src="assets/wave-top.svg" width="100%" height="40"/>
+Build software that is clean,
+scalable and solves real problems.
+```
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pramod707&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&text_color=00F5FF&icon_color=8B5CF6&ring_color=00F5FF&bg_color=050816" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod707&layout=compact&theme=transparent&hide_border=true&title_color=00F5FF&text_color=00F5FF&icon_color=8B5CF6&bg_color=050816" width="49%" alt="Top Languages"/>
+# 👨‍💻 About Me
 
-</div>
+- 🤖 Building intelligent AI applications with modern LLM workflows.
+- ⚙️ Developing scalable backend services using FastAPI.
+- 📊 Turning raw data into actionable insights through analytics.
+- 🚀 Exploring Agentic AI, System Design and Cloud technologies.
+- 🌱 Constantly improving through real-world projects.
 
-<br>
+---
 
-<div align="center">
+# 🛠 Tech Stack
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pramod707&theme=transparent&hide_border=true&stroke=00F5FF&ring=8B5CF6&fire=00F5FF&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=3B82F6&background=050816" width="70%" alt="GitHub Streak"/>
+### 🤖 AI & Machine Learning
 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
+</p>
 
-<br>
+**Frameworks**
 
-<div align="center">
+LangChain • LangGraph • Ollama • Hugging Face • OpenAI • Google Gemini • RAG
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramod707&theme=react-dark&hide_border=true&area=true&color=00F5FF&line=8B5CF6&point=3B82F6&bg_color=050816" width="95%" alt="Contribution Graph"/>
+---
 
-</div>
+### ⚙ Backend
 
-<img src="assets/wave-bottom.svg" width="100%" height="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express"/>
+</p>
 
-<br><br>
+---
 
-<!-- DIVIDER -->
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+### 🗄 Database
 
-<br><br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
+</p>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
+---
 
-<img src="https://raw.githubusercontent.com/Pramod707/Pramod707/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
+### 📊 Data Analytics
 
-</div>
+Excel • SQL • Pandas • NumPy • Power BI
 
-<br><br>
+---
 
-<!-- DIVIDER -->
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+### ☁ DevOps & Tools
 
-<br><br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman"/>
+</p>
 
-<!-- PARTICLES -->
-<img src="assets/particles.svg" width="100%" alt="Particles"/>
+---
 
-<br><br>
+# 🚀 Featured Projects
 
-<!-- CONTACT & FOOTER -->
-<img src="assets/footer.svg" width="100%" alt="Footer"/>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🤖 Atlas AI | Offline multi-agent AI assistant | Python · LangGraph · Ollama · FastAPI · PostgreSQL |
+| 👁 AlertEye | AI-powered surveillance & threat detection | Flask · YOLO · OpenCV · Twilio |
+| 📊 Retail Analytics | Consumer behaviour analytics dashboard | Python · SQL · Power BI |
+| 🛡 PhishShield | ML-based phishing detection | Python · Scikit-Learn · Flask |
+| 🔗 Shortify | URL shortener platform | FastAPI · PostgreSQL · Docker |
 
-<br>
+---
 
-<!-- PROFILE VIEWS -->
-<div align="center">
+# 📊 GitHub Analytics
 
-<img src="https://komarev.com/ghpvc/?username=Pramod707&color=00F5FF&style=flat-square&label=SYSTEM+VISITS" alt="Profile Views"/>
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pramod707&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod707&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Pramod707&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramod707&theme=react-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pramod707/Pramod707/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Pramod707/Pramod707/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+
+---
+
+# 📈 Current Learning
+
+```text
+LangGraph        ██████████░░ 85%
+
+System Design    ████████░░░░ 70%
+
+Cloud            █████░░░░░░░ 45%
+
+Open Source      ███████░░░░░ 60%
+```
+
+---
+
+# 💡 Engineering Principles
+
+- Clean Architecture
+- Performance First
+- Continuous Learning
+- Build → Test → Optimize → Ship
+
+> **"Engineering intelligent systems, one commit at a time."**
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/Pramod707">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pramod7/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pramod15092004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF2D75?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF2D75,50:7C3AED,100:00D9FF"/>
+</p>
+````
