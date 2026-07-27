@@ -112,7 +112,6 @@ Customer behavior analytics platform built with **Python, SQL, Pandas, NumPy, an
 
 ## 💻 Technical Skills
 
-### 💻 Languages
 - Python
 - Java
 - JavaScript
