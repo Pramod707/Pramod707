@@ -134,13 +134,6 @@ Customer behavior analytics platform built with **Python, SQL, Pandas, NumPy, an
 <img src="https://streak-stats.demolab.com?user=Pramod707&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pramod707&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # 📊 Contribution Graph
