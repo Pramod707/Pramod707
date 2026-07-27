@@ -89,112 +89,82 @@ class Pramod:
 </p>
 
 ---
-
 # 🚀 Featured Projects
 
-<p align="center">
+### 🤖 Atlas AI
+Offline multi-agent AI assistant using **LangChain, LangGraph, RAG, Ollama, FastAPI, and PostgreSQL**.
 
-<a href="https://github.com/Pramod707/atlas-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramod707&repo=atlas-ai&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Pramod707/Phish-Shield">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramod707&repo=Phish-Shield&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Pramod707/Retail-Consumer-Behavior-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramod707&repo=Retail-Consumer-Behavior-Analytics&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
+🔗 https://github.com/Pramod707/atlas-ai
 
 ---
 
-# 💻 Tech Stack
+### 🛡️ Phish Shield
+AI-powered phishing URL detection using **Machine Learning, Flask, and NLP**.
 
-## Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,sql,bash"/>
-
-</p>
+🔗 https://github.com/Pramod707/Phish-Shield
 
 ---
 
-## AI • LLM • Machine Learning
+### 📊 Retail Consumer Behavior Analytics
+Customer behavior analytics platform built with **Python, SQL, Pandas, NumPy, and Power BI**.
 
-<p align="center">
+🔗 https://github.com/Pramod707/Retail-Consumer-Behavior-Analytics
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
+## 💻 Technical Skills
 
-</p>
+### 💻 Languages
+- Python
+- Java
+- JavaScript
+- SQL
+- C
 
-<p align="center">
+### 🤖 AI / LLM Engineering
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+- Tool Calling
+- Structured Outputs
+- Model Context Protocol (MCP)
+- LangChain
+- LangGraph
+- Vector Databases
+- Embeddings
+- Semantic Search
+- Natural Language Processing (NLP)
+- Machine Learning
 
-<strong>
+### 📊 Data Analytics
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Power BI
+- Microsoft Excel
 
-LangChain • LangGraph • OpenAI • Gemini • Ollama • Hugging Face • Transformers • RAG • AI Agents • MCP • Prompt Engineering • Tool Calling • Structured Output • Vector Search • Embeddings • ChromaDB • FAISS • Qdrant
+### ⚙️ Backend Development
+- FastAPI
+- Flask
+- REST APIs
+- Backend Architecture
 
-</strong>
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- ChromaDB
+- Qdrant
 
-</p>
-
----
-
-## Backend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express"/>
-
-</p>
-
----
-
-## Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
-
-</p>
-
----
-
-## Cloud • DevOps • Deployment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions"/>
-
-</p>
-
----
-
-## Data Analytics
-
-<p align="center">
-
-Python • SQL • Pandas • NumPy • Power BI • Excel • Data Cleaning • Data Visualization • Exploratory Data Analysis
-
-</p>
-
----
-
-## Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma,notion"/>
-
-</p>
-
----
+### 🛠️ Tools & Technologies
+- Git
+- GitHub
+- Docker
+- Linux
+- Postman
+- VS Code
 
 # 📈 GitHub Analytics
 
