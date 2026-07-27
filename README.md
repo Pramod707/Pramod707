@@ -109,61 +109,19 @@ AI-powered phishing URL detection using **Machine Learning, Flask, and NLP**.
 Customer behavior analytics platform built with **Python, SQL, Pandas, NumPy, and Power BI**.
 
 🔗 https://github.com/Pramod707/Retail-Consumer-Behavior-Analytics
+# 💻 Tech Stack
 
-## 💻 Technical Skills
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,fastapi,flask,postgres,mysql,mongodb,docker,git,github,linux,postman,vscode" />
+</p>
 
-- Python
-- Java
-- JavaScript
-- SQL
-- C
+<p align="center">
 
-### 🤖 AI / LLM Engineering
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Prompt Engineering
-- Tool Calling
-- Structured Outputs
-- Model Context Protocol (MCP)
-- LangChain
-- LangGraph
-- Vector Databases
-- Embeddings
-- Semantic Search
-- Natural Language Processing (NLP)
-- Machine Learning
+**AI:** LangChain • LangGraph • OpenAI • Gemini • Ollama • Hugging Face • RAG • AI Agents
 
-### 📊 Data Analytics
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Power BI
-- Microsoft Excel
+**Data:** Pandas • NumPy • Power BI
 
-### ⚙️ Backend Development
-- FastAPI
-- Flask
-- REST APIs
-- Backend Architecture
-
-### 🗄️ Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- ChromaDB
-- Qdrant
-
-### 🛠️ Tools & Technologies
-- Git
-- GitHub
-- Docker
-- Linux
-- Postman
-- VS Code
+</p>
 
 # 📈 GitHub Analytics
 
