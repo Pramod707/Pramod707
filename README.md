@@ -50,17 +50,14 @@ class Pramod:
         "Production AI Systems",
     ]
 
-    current_focus = [
-        "LangGraph",
-        "Multi-Agent Systems",
-        "FastAPI",
-        "System Design",
-        "Docker",
-        "Vector Databases",
+    building = [
+        "Intelligent AI Agents",
+        "Production-Ready APIs",
+        "Scalable RAG Pipelines",
+        "LLM Applications",
     ]
 
-    motto = "Build. Learn. Optimize. Repeat."
-```
+    motto = "Turning ideas into intelligent software."
 
 - 🤖 Building production-ready AI applications
 - 🧠 Passionate about Large Language Models and AI Agents
