@@ -120,7 +120,8 @@ Customer behavior analytics platform built with **Python, SQL, Pandas, NumPy, an
 **Data:** Pandas • NumPy • Power BI
 
 </p>
-# 📊 GitHub Analytics
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -133,6 +134,7 @@ Customer behavior analytics platform built with **Python, SQL, Pandas, NumPy, an
 <img src="https://streak-stats.demolab.com?user=Pramod707&theme=tokyonight&hide_border=true"/>
 
 </p>
+---
 
 # 📊 Contribution Graph
 
