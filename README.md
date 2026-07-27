@@ -120,14 +120,11 @@ Customer behavior analytics platform built with **Python, SQL, Pandas, NumPy, an
 **Data:** Pandas • NumPy • Power BI
 
 </p>
-
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pramod707&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod707&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -136,8 +133,6 @@ Customer behavior analytics platform built with **Python, SQL, Pandas, NumPy, an
 <img src="https://streak-stats.demolab.com?user=Pramod707&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 # 📊 Contribution Graph
 
