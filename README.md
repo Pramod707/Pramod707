@@ -125,7 +125,7 @@ Customer behavior analytics platform built with **Python, SQL, Pandas, NumPy, an
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pramod707&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src=https://github-readme-stats-sigma-five.vercel.app/>
 
 </p>
 
