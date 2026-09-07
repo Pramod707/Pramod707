@@ -103,10 +103,11 @@ AI-powered phishing URL detection using **Machine Learning, Flask, and NLP**.
 
 ---
 
-### 📊 Retail Consumer Behavior Analytics
-Customer behavior analytics platform built with **Python, SQL, Pandas, NumPy, and Power BI**.
+🤖 TeleAgent — AI Telegram Chatbot
 
-🔗 https://github.com/Pramod707/Retail-Consumer-Behavior-Analytics
+AI-powered conversational Telegram bot built with Python, Aiogram, Groq API, Docker, and uv.
+
+🔗 https://github.com/Pramod707/teleagent-ai
 # 💻 Tech Stack
 
 <p align="center">
