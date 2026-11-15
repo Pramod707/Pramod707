@@ -96,6 +96,11 @@ Offline multi-agent AI assistant using **LangChain, LangGraph, RAG, Ollama, Fast
 
 ---
 
+✈️ TripMind AI
+
+AI-powered multi-agent travel planner using LangGraph, LangChain, Groq LLM, Streamlit, PostgreSQL, Tavily Search, and AviationStack to generate personalized travel itineraries with flight research, hotel recommendations, and budget estimates.
+
+🔗 https://github.com/Pramod707/TripMind-AI
 ### 🛡️ Phish Shield
 AI-powered phishing URL detection using **Machine Learning, Flask, and NLP**.
 
