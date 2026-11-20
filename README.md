@@ -130,21 +130,6 @@ AI-powered conversational Telegram bot built with Python, Aiogram, Groq API, Doc
 
 </p>
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src=https://github-readme-stats-sigma-five.vercel.app/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pramod707&theme=tokyonight&hide_border=true"/>
-
-</p>
----
-
 # 📊 Contribution Graph
 
 <p align="center">
@@ -152,8 +137,6 @@ AI-powered conversational Telegram bot built with Python, Aiogram, Groq API, Doc
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramod707&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
-
 
 
 # 💡 Engineering Philosophy
